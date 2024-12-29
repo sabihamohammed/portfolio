@@ -50,9 +50,9 @@
     "demo": "#video"
   },
   {
-    "title": "Big Data ETL Pipeline using Spark Streaming and Apache Kafka",
+    "title": " ETL Pipeline using Spark Streaming and Apache Kafka",
     "imageSrc": "projects/image.png",
-    "description": " The integration of Apache Kafka and Spark Streaming to build a seamless pipeline for transferring and transforming large-scale data.",
+    "description": "Integration of Apache Kafka and Spark Streaming to build a seamless pipeline for transferring and transforming large-scale data.",
     "skills": [ "Data Sources and Sinks", "HiveQL", "  Spark Streaming,RDD"],
     "demo": "#video"
   },
