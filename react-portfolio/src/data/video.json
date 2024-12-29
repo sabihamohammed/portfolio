@@ -1,0 +1,22 @@
+[
+{
+    "title": "ETL Pipeline kafka", 
+    "video": "video/kafka.mp4"
+   
+   
+    
+  },
+
+  {
+    "title": "Spark RDD MapReduce program", 
+    "video": "video/RDD.mp4"
+   
+  },
+
+  {
+    "title": "Big Data ETL Pipeline using Spark Streaming and Apache Kafka", 
+    "video": "video/Final-Project.mp4"
+    
+    
+  }
+]

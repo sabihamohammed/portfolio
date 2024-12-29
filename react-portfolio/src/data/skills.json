@@ -1,0 +1,36 @@
+[
+  {
+    "category": "Full Stack",
+    "skills": [
+      { "title": "React", "imageSrc": "skills/react.png" },
+      { "title": "Next", "imageSrc": "skills/next.png" },
+      { "title": "Angular", "imageSrc": "skills/Angular.png" },
+      { "title": "Node", "imageSrc": "skills/node.png" },
+      { "title": "Go", "imageSrc": "skills/go.png" },
+      { "title": "Django", "imageSrc": "skills/django.png" },
+      { "title": "MongoDB", "imageSrc": "skills/mongodb.png" },
+      { "title": "SQL", "imageSrc": "skills/sql.png" },
+      { "title": "PostgreSQL", "imageSrc": "skills/postgrese.png" },
+      { "title": "Docker", "imageSrc": "skills/docker.png" },
+      { "title": "Heroku", "imageSrc": "skills/heroku.png" },
+      { "title": "GCP", "imageSrc": "skills/gcp.png" },
+      { "title": "AWS", "imageSrc": "skills/aws.png" },
+      { "title": "Git", "imageSrc": "skills/git.png" },
+      { "title": "GitLab", "imageSrc": "skills/gitlab.png" }
+    ]
+  },
+  {
+    "category": "Machine Learning / Deep Learning",
+    "skills": [
+      { "title": "Predictive Analysis", "imageSrc": "skills/predictive.png" },
+      { "title": "NLP", "imageSrc": "skills/nlp_logo.png" },
+      { "title": "Keras", "imageSrc": "skills/Keras.png" },
+      { "title": "Hugging Face", "imageSrc": "skills/huggingface.png" },
+      { "title": "PyTorch", "imageSrc": "skills/PyTorch.png" },
+      { "title": "TensorFlow", "imageSrc": "skills/tensorflow.png" },
+      { "title": "scikit-learn", "imageSrc": "skills/scikit-learn.png" },
+      { "title": "Matplotlib", "imageSrc": "skills/Matplotlib.png" },
+      { "title": "Pandas", "imageSrc": "skills/Pandas.png" }
+    ]
+  }
+]

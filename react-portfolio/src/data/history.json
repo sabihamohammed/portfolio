@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Research Student (CRS3)-Software Developer",
+    "organisation": "Conestoga College",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Developed and deployed a scalable full-stack MERN application using MongoDB Atlas, handling 30,000+ records with optimized indexing ","Designed user interfaces and wireframes in Figma to enhance user experience",
+"Increased MongoDB query efficiency by 25% to support high-performance data retrieval and scalability",
+"Applied predictive analysis with data visualization, achieving 20% improved predictive accuracy for data-driven decision-making",
+"Implemented Firebase SSO for secure user authentication with customizable access roles",
+"Created and optimized RESTful APIs to ensure efficient client-server communication and data handling",
+"Set up a role-based user management system with tailored access for admin, analyst, and standard users",
+"Deployed on Heroku, achieving 40% faster load times and broad cross-device accessibility",
+"Leveraged Agile practices and Git version control, enhancing team collaboration and project efficiency by 20%."],
+    "imageSrc": "history/conestoga.png"
+  },
+  {
+    "role": "Website Developer",
+    "organisation": "Skyscales",
+    "startDate": "Mar, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Designed and developed 5 responsive websites using WordPress, later migrating them to React for enhanced functionality and interactivity, resulting in a 15% increase in visitor engagement",
+
+"Customized themes for seamless client branding, achieving a 25% improvement in client satisfaction",
+"Curated targeted, SEO-friendly content, increasing average site visit duration by 30% and improving site discoverability",
+"Integrated analytics to track user behavior, providing data-driven insights that informed future content strategy",
+"Guided clients on hosting setup and domain management, recommending AWS LightSail to improve hosting reliability and cut deployment times by 50%",
+"Leveraged entrepreneurial skills to manage end-to-end client projects, ensuring seamless delivery of web solutions tailored to business needs"],
+    "imageSrc": "history/skyscales.png"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "LIFO Technologies Pvt Ltd",
+    "startDate": "Apr, 2021",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Designed responsive applications using the Angular Ionic framework, providing dynamic and user-friendly interfaces",
+      "Implemented PostgreSQL for database management, optimizing data retrieval and storage processes",
+      "Engineered backend services with Python Django, creating superuser roles and managing application security",
+      "Developed RESTful APIs to facilitate efficient communication between client and server components, ensuring seamless integration",
+      "Integrated Single Sign-On (SSO) with Google, Facebook, and Twitter to streamline and secure user authentication, reducing login friction and enhancing security",
+      "Optimized codebase, transitioning static applications into dynamic, maintainable solutions, while utilizing Git for version control and team collaboration"
+    ],
+    "imageSrc": "history/lifo.png"
+  }
+]

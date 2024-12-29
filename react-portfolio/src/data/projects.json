@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Sentiment Analysis for Social Media Data",
+    "imageSrc": "projects/sentiment.png",
+    "description": "A sentiment analysis system to classify Reddit posts into positive, negative, or neutral sentiments. ",
+    "skills": ["Machine learning", "Transformers", "Nltk", "TfidfVectorizer"],
+    "source": "https://github.com/sabihamohammed/ML-projects/blob/main/sentiment_analysis.ipynb"
+  },
+  {
+    "title": "Does unemployment lead to mental illness ",
+    "imageSrc": "projects/r-progamming.png",
+    "description": "Analyzing the Relationship Between Mental Illness and Unemployment: A Demographic Study",
+    "skills": ["R programming ", "Random forest", "logistic regression"],
+    "source": "https://github.com/sabihamohammed/ML-projects/blob/main/does%20unemployment%20leads%20to%20mental%20illness.rmd"
+  },
+  {
+    "title": "Recommendation System",
+    "imageSrc": "projects/recommendation.png",
+    "description": "An advanced movie recommendation system that offers personalized movie suggestions based on user viewing history, preferences, and behavior.",
+    "skills": [ "content based filtering", "collaborative filtering"],
+    "source": "https://github.com/sabihamohammed/ML-projects/blob/main/recommendation%20system.ipynb"
+  },
+  {
+    "title": "Fine-Tune VGG16 for Bird Classification",
+    "imageSrc": "projects/classification.png",
+    "description": "A fine-tuned VGG16 deep learning model to classify bird species accurately from image datasets..",
+    "skills":  [ "TensorFlow/Keras", "Deep Learning ", "Computer Vision "],
+    "source": "https://github.com/sabihamohammed/ML-projects/blob/main/Fine-Tune%20VGG16%20for%20Bird%20Classification.ipynb"
+  },
+
+  {
+    "title": "AI wildlife conservation for improved species identification",
+    "imageSrc": "projects/ai-wildlife.png",
+    "description": "A complete project and research on AI wildlife conservation for improved species identification",
+    "skills":  [ "TensorFlow/Keras", "Deep Learning ", "Computer Vision"],
+    "source": "https://www.linkedin.com/in/sabiha-mohamad/details/projects/994947339/multiple-media-viewer/?profileId=ACoAACH8B2oB_Ehn-108WTdGJ_Zwa1QQn0VlXGQ&treasuryMediaId=1733695644559"
+  },
+  {
+    "title": "ETL- Big Data",
+    "imageSrc": "projects/kafka.png",
+    "description": "Setting up an ETL pipeline to ingest data from NewsAPI using Apache Kafka, clean and process it, and load it into a Hive table for analysis.",
+    "skills": [ "Apache Kafka", "Hive", "Google cloud platform ", "ETL"],
+    "demo": "#video"
+  },
+  {
+    "title": "Spark RDD MapReduce program",
+    "imageSrc": "projects/rdd-spark.png",
+    "description": " Converting  Hive queries into RDD MapReduce programs using Spark RDD API using map, filter and reduceByKey functions.",
+    "skills": [ "scala", "HiveQL", "Google cloud platform "],
+    "demo": "#video"
+  },
+  {
+    "title": "Big Data ETL Pipeline using Spark Streaming and Apache Kafka",
+    "imageSrc": "projects/rdd-spark.png",
+    "description": " This project showcases the integration of Apache Kafka and Spark Streaming to build a seamless pipeline for transferring and transforming large-scale data.",
+    "skills": [ "Data Sources and Sinks", "HiveQL", "Google cloud platform, Streaming Frameworks,  Spark Streaming,RDD"],
+    "demo": "#video"
+  },
+  {
+    "title": "login page ",
+    "imageSrc": "projects/login.png",
+    "description": " Simple login page using react and node that used json web token for authentication, and used react-router-dom for routing.",
+    "skills": [ "Node", "react"],
+    "source": "https://github.com/sabihamohammed/react-node/tree/main/login-page"
+  }
+]
